@@ -1,0 +1,6 @@
+{
+  "name": "처음가나 - 닮은꼴 가나 손글씨 비교 훈련소",
+  "description": "히라가나와 가타카나의 헷갈리는 닮은꼴 문자를 1:1 좌우 분할 비교와 실시간 획순 교정으로 손끝으로 체득하는 일본어 입문 학습 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
